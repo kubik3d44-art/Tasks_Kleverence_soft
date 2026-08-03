@@ -1,0 +1,14 @@
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\bin\Debug\net10.0\Task1.exe
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\bin\Debug\net10.0\Task1.deps.json
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\bin\Debug\net10.0\Task1.dll
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\bin\Debug\net10.0\Task1.pdb
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.AssemblyInfoInputs.cache
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.AssemblyInfo.cs
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.csproj.CoreCompileInputs.cache
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.dll
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\refint\Task1.dll
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.pdb
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
+\\psf\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task1\Task1\obj\Debug\net10.0\ref\Task1.dll
