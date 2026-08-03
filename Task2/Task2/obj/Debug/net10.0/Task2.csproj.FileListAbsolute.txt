@@ -1,0 +1,14 @@
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\bin\Debug\net10.0\Task2.exe
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\bin\Debug\net10.0\Task2.deps.json
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\bin\Debug\net10.0\Task2.dll
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\bin\Debug\net10.0\Task2.pdb
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.dll
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\refint\Task2.dll
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.pdb
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+C:\Mac\Home\Desktop\C#_.NET\#Задачи#\Tasks_KlevernceSoft\Task2\Task2\obj\Debug\net10.0\ref\Task2.dll
